@@ -1,0 +1,16 @@
+F:\Programação\learningCSharp\bin\Debug\net5.0\learningCSharp.exe
+F:\Programação\learningCSharp\bin\Debug\net5.0\learningCSharp.deps.json
+F:\Programação\learningCSharp\bin\Debug\net5.0\learningCSharp.runtimeconfig.json
+F:\Programação\learningCSharp\bin\Debug\net5.0\learningCSharp.runtimeconfig.dev.json
+F:\Programação\learningCSharp\bin\Debug\net5.0\learningCSharp.dll
+F:\Programação\learningCSharp\bin\Debug\net5.0\ref\learningCSharp.dll
+F:\Programação\learningCSharp\bin\Debug\net5.0\learningCSharp.pdb
+F:\Programação\learningCSharp\obj\Debug\net5.0\learningCSharp.csproj.AssemblyReference.cache
+F:\Programação\learningCSharp\obj\Debug\net5.0\learningCSharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programação\learningCSharp\obj\Debug\net5.0\learningCSharp.AssemblyInfoInputs.cache
+F:\Programação\learningCSharp\obj\Debug\net5.0\learningCSharp.AssemblyInfo.cs
+F:\Programação\learningCSharp\obj\Debug\net5.0\learningCSharp.csproj.CoreCompileInputs.cache
+F:\Programação\learningCSharp\obj\Debug\net5.0\learningCSharp.dll
+F:\Programação\learningCSharp\obj\Debug\net5.0\ref\learningCSharp.dll
+F:\Programação\learningCSharp\obj\Debug\net5.0\learningCSharp.pdb
+F:\Programação\learningCSharp\obj\Debug\net5.0\learningCSharp.genruntimeconfig.cache
